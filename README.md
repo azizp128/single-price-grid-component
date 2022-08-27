@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [SOLUTION](https://your-solution-url.com)
-- Live Site URL: [LIVE SITE](https://your-live-site-url.com)
+- Solution URL: [SOLUTION](https://www.frontendmentor.io/solutions/responsive-single-price-grid-using-css-grid-Wj-qr6DJ6-)
+- Live Site URL: [LIVE SITE](https://azizp128.github.io/single-price-grid-component/)
 
 ## My process
 
